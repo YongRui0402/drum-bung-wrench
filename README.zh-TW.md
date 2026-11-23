@@ -8,7 +8,7 @@
 
 以 Python 的 [build123d](https://github.com/gumyr/build123d) 建模,所有尺寸都能在程式裡修改。
 
-**下載:** [GitHub Release](https://github.com/YongRui0402/drum-bung-wrench/releases/latest)
+**下載:** [MakerWorld](https://makerworld.com/en/models/3670073)(附 X2D 列印配置)· [Printables](https://www.printables.com/model/1926813) · [GitHub Release](https://github.com/YongRui0402/drum-bung-wrench/releases/latest)
 
 <p>
   <img src="docs/photos/01_assembled_front-angle.jpg" alt="組好的扳手,插在模擬桶口上" width="32%">

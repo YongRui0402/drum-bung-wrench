@@ -10,7 +10,7 @@ A **mock drum opening** (the box) that the bung screws into is included, so you 
 
 Modeled in Python with [build123d](https://github.com/gumyr/build123d); every dimension can be changed in code.
 
-**Download:** [GitHub Release](https://github.com/YongRui0402/drum-bung-wrench/releases/latest)
+**Download:** [MakerWorld](https://makerworld.com/en/models/3670073) (with a ready-to-print X2D profile) · [Printables](https://www.printables.com/model/1926813) · [GitHub Release](https://github.com/YongRui0402/drum-bung-wrench/releases/latest)
 
 <p>
   <img src="docs/photos/01_assembled_front-angle.jpg" alt="Assembled wrench on the mock drum opening" width="32%">
